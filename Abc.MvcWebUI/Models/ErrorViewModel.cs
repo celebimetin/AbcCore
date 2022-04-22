@@ -1,5 +1,3 @@
-using System;
-
 namespace Abc.MvcWebUI.Models
 {
     public class ErrorViewModel

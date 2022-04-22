@@ -9,3 +9,4 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.csproj.Co
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\ref\Abc.Core.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.csproj.AssemblyReference.cache

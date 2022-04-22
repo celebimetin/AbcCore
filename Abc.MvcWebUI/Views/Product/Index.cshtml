@@ -1,7 +1,24 @@
-﻿
+﻿@model ProductListViewModel
+
 @{
+    Layout = "~/Views/Shared/_Layout.cshtml";
     ViewData["Title"] = "Index";
 }
 
-<h1>Product Index</h1>
-
+<div>
+    <table>
+        <tr>
+            <td>Product Name</td>
+            <td>Unit Price</td>
+            <td>Unit In Stock</td>
+        </tr>
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.UnitsInStock</td>
+            </tr>
+        }
+    </table>
+</div>
