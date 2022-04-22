@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Abc.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Abc.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Abc.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Abc.Core/1.0.0": {
+      "type": "project",
+      "path": "../Abc.Core/Abc.Core.csproj",
+      "msbuildProject": "../Abc.Core/Abc.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Abc.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mcelebi\\.nuget\\packages\\": {},
@@ -37,7 +56,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mcelebi\\Desktop\\Course\\Abc\\Abc.Core\\Abc.Core.csproj": {
+              "projectPath": "C:\\Users\\mcelebi\\Desktop\\Course\\Abc\\Abc.Core\\Abc.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

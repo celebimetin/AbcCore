@@ -2,7 +2,6 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\bin\Debug\net5.0\Abc.DataAcce
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\bin\Debug\net5.0\Abc.DataAccess.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\bin\Debug\net5.0\ref\Abc.DataAccess.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\bin\Debug\net5.0\Abc.DataAccess.pdb
-C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAccess.csproj.AssemblyReference.cache
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAccess.AssemblyInfoInputs.cache
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAccess.AssemblyInfo.cs

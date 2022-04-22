@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Abc.Entities/1.0.0": {
+        "dependencies": {
+          "Abc.Core": "1.0.0"
+        },
         "runtime": {
           "Abc.Entities.dll": {}
+        }
+      },
+      "Abc.Core/1.0.0": {
+        "runtime": {
+          "Abc.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Abc.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Abc.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
