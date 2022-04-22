@@ -2,6 +2,7 @@ using Abc.Business.Abstract;
 using Abc.Business.Concrete;
 using Abc.DataAccess.Abstract;
 using Abc.DataAccess.Concrete.EntityFramework;
+using Abc.MvcWebUI.Middlewares;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -46,6 +47,8 @@ namespace Abc.MvcWebUI
             app.UseHttpsRedirection();
 
             app.UseStaticFiles();
+
+            app.UseNodeModules(env.ContentRootPath);
 
             app.UseRouting();
 
