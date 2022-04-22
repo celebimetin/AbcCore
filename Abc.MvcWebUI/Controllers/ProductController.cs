@@ -1,4 +1,5 @@
 ﻿using Abc.Business.Abstract;
+using Abc.MvcWebUI.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Abc.MvcWebUI.Controllers

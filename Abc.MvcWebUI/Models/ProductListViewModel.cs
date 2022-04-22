@@ -1,7 +1,7 @@
 ﻿using Abc.Entities.Concrete;
 using System.Collections.Generic;
 
-namespace Abc.MvcWebUI
+namespace Abc.MvcWebUI.Models
 {
     public class ProductListViewModel
     {

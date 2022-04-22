@@ -22,11 +22,7 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\scopedcss\bund
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.TagHelpers.input.cache
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.TagHelpers.output.cache
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.RazorCoreGenerate.cache
-C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.RazorTargetAssemblyInfo.cache
