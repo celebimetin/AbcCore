@@ -1,0 +1,12 @@
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\bin\Debug\net5.0\Abc.Core.deps.json
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\bin\Debug\net5.0\Abc.Core.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\bin\Debug\net5.0\ref\Abc.Core.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\bin\Debug\net5.0\Abc.Core.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.csproj.AssemblyReference.cache
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.AssemblyInfoInputs.cache
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.AssemblyInfo.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.csproj.CoreCompileInputs.cache
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\ref\Abc.Core.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Core\obj\Debug\net5.0\Abc.Core.pdb

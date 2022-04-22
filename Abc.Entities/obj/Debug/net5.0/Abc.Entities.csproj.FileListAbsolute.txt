@@ -1,0 +1,12 @@
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\bin\Debug\net5.0\Abc.Entities.deps.json
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\bin\Debug\net5.0\Abc.Entities.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\bin\Debug\net5.0\ref\Abc.Entities.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\bin\Debug\net5.0\Abc.Entities.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\obj\Debug\net5.0\Abc.Entities.csproj.AssemblyReference.cache
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\obj\Debug\net5.0\Abc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\obj\Debug\net5.0\Abc.Entities.AssemblyInfoInputs.cache
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\obj\Debug\net5.0\Abc.Entities.AssemblyInfo.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\obj\Debug\net5.0\Abc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\obj\Debug\net5.0\Abc.Entities.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\obj\Debug\net5.0\ref\Abc.Entities.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Entities\obj\Debug\net5.0\Abc.Entities.pdb
