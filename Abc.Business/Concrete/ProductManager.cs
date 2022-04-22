@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 namespace Abc.Business.Concrete
 {
-    public class IProductManager : IProductService
+    public class ProductManager : IProductService
     {
         private readonly IProductDal _productDal;
 
-        public IProductManager(IProductDal productDal)
+        public ProductManager(IProductDal productDal)
         {
             _productDal = productDal;
         }
@@ -21,7 +21,7 @@ namespace Abc.Business.Concrete
 
         public void Delete(int productId)
         {
-            //_productDal.Delete(productId);
+            _productDal.Delete(new Product { ProductId = productId });
         }
 
         public List<Product> GetAll()

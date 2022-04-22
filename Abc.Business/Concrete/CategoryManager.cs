@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 namespace Abc.Business.Concrete
 {
-    public class ICategoryManager : ICategoryService
+    public class CategoryManager : ICategoryService
     {
         private readonly ICategoryDal _categoryDal;
 
-        public ICategoryManager(ICategoryDal categoryDal)
+        public CategoryManager(ICategoryDal categoryDal)
         {
             _categoryDal = categoryDal;
         }
@@ -21,7 +21,7 @@ namespace Abc.Business.Concrete
 
         public void Delete(int categoryId)
         {
-            //_categoryDal.Delete(categoryId);
+            _categoryDal.Delete(new Category { CategoryId = categoryId });
         }
 
         public List<Category> GetAll()
