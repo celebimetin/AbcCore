@@ -9,7 +9,6 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\bin\Debug\net5.0\ref\Abc.MvcWeb
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\bin\Debug\net5.0\Abc.MvcWebUI.pdb
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\bin\Debug\net5.0\Abc.MvcWebUI.Views.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\bin\Debug\net5.0\Abc.MvcWebUI.Views.pdb
-C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.csproj.AssemblyReference.cache
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.AssemblyInfoInputs.cache
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.AssemblyInfo.cs
@@ -38,3 +37,4 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\ref\Abc.MvcWeb
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.pdb
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.genruntimeconfig.cache
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.csproj.CopyComplete
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Abc.MvcWebUI.csproj.AssemblyReference.cache

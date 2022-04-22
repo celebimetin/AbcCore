@@ -9,3 +9,9 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAcce
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAccess.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\ref\Abc.DataAccess.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAccess.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\bin\Debug\net5.0\Abc.Core.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\bin\Debug\net5.0\Abc.Entities.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\bin\Debug\net5.0\Abc.Core.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\bin\Debug\net5.0\Abc.Entities.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.DataAccess\obj\Debug\net5.0\Abc.DataAccess.csproj.CopyComplete
