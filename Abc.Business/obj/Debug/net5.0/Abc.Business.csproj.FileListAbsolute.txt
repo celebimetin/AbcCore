@@ -9,3 +9,11 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\obj\Debug\net5.0\Abc.Business.c
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\obj\Debug\net5.0\Abc.Business.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\obj\Debug\net5.0\ref\Abc.Business.dll
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\obj\Debug\net5.0\Abc.Business.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\bin\Debug\net5.0\Abc.Core.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\bin\Debug\net5.0\Abc.DataAccess.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\bin\Debug\net5.0\Abc.Entities.dll
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\bin\Debug\net5.0\Abc.Core.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\bin\Debug\net5.0\Abc.DataAccess.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\bin\Debug\net5.0\Abc.Entities.pdb
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\obj\Debug\net5.0\Abc.Business.csproj.AssemblyReference.cache
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.Business\obj\Debug\net5.0\Abc.Business.csproj.CopyComplete
