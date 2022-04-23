@@ -1,6 +1,7 @@
 ﻿using Abc.Business.Abstract;
 using Abc.MvcWebUI.Models;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Linq;
 
 namespace Abc.MvcWebUI.Controllers
@@ -21,7 +22,11 @@ namespace Abc.MvcWebUI.Controllers
             var products = _productService.GetByCategory(category);
             ProductListViewModel model = new ProductListViewModel
             {
-                Products = products.Skip((page - 1) * pageSize).Take(pageSize).ToList()
+                Products = products.Skip((page - 1) * pageSize).Take(pageSize).ToList(),
+                PageCount = (int)Math.Ceiling(products.Count / (double)pageSize),
+                PageSize = pageSize,
+                CurrentCategory = category,
+                CurrentPage = page
             };
 
             return View(model);

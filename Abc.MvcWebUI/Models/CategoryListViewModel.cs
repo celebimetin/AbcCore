@@ -5,7 +5,7 @@ namespace Abc.MvcWebUI.Models
 {
     public class CategoryListViewModel
     {
-        public List<Category> Categories { get; internal set; }
-        public int CurrentCategory { get; internal set; }
+        public List<Category> Categories { get; set; }
+        public int CurrentCategory { get; set; }
     }
 }
