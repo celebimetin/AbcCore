@@ -7,6 +7,15 @@
 <div class="list-group">
     @foreach (var item in Model.Categories)
     {
-        <a href="#" class="list-group-item">@item.CategoryName</a>
+        var css = "list-group-item list-group-item-action";
+
+        if (item.CategoryId == Model.CurrentCategory)
+        {
+            css += "active";
+        }
+        <a asp-controller="Product"
+           asp-action="Index"
+           asp-route-category="@item.CategoryId"
+           class="@css">@item.CategoryName</a>
     }
 </div>
