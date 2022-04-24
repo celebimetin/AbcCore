@@ -3,8 +3,10 @@ using Abc.Business.Concrete;
 using Abc.DataAccess.Abstract;
 using Abc.DataAccess.Concrete.EntityFramework;
 using Abc.MvcWebUI.Middlewares;
+using Abc.MvcWebUI.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -25,10 +27,16 @@ namespace Abc.MvcWebUI
         {
             services.AddControllersWithViews();
 
-            services.AddScoped<IProductService, ProductManager>();
-            services.AddScoped<ICategoryService, CategoryManager>();
             services.AddScoped<IProductDal, EfProductDal>();
             services.AddScoped<ICategoryDal, EfCategoryDal>();
+            services.AddScoped<IProductService, ProductManager>();
+            services.AddScoped<ICategoryService, CategoryManager>();
+            services.AddSingleton<ICartService, CartManager>();
+            services.AddSingleton<ICartSessionService, CartSessionService>();
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+            services.AddSession();
+            services.AddDistributedMemoryCache();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +52,8 @@ namespace Abc.MvcWebUI
             app.UseStaticFiles();
 
             //app.UseNodeModules(env.ContentRootPath);
+
+            app.UseSession();
 
             app.UseRouting();
 
