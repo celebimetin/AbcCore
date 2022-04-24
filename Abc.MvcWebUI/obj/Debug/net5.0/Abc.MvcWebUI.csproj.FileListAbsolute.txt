@@ -152,3 +152,7 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Sh
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Cart\List.cshtml.g.cs
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Cart\Complete.cshtml.g.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Admin\Insert.cshtml.g.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Admin\Update.cshtml.g.cs
