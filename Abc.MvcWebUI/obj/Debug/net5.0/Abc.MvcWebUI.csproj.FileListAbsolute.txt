@@ -149,3 +149,6 @@ C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\bin\Debug\net5.0\Abc.DataAccess
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\bin\Debug\net5.0\Abc.Entities.pdb
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Cart\List.cshtml.g.cs
+C:\Users\mcelebi\Desktop\Course\Abc\Abc.MvcWebUI\obj\Debug\net5.0\Razor\Views\Cart\Complete.cshtml.g.cs

@@ -26,7 +26,7 @@ namespace Abc.MvcWebUI.Services
 
         public void SertCart(Cart cart)
         {
-            _httpContextAccessor.HttpContext.Session.SetObject("cart", new Cart());
+            _httpContextAccessor.HttpContext.Session.SetObject("cart", cart);
         }
     }
 }
