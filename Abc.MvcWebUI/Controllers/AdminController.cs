@@ -1,10 +1,12 @@
 ﻿using Abc.Business.Abstract;
 using Abc.Entities.Concrete;
 using Abc.MvcWebUI.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Abc.MvcWebUI.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
         private readonly IProductService _productService;

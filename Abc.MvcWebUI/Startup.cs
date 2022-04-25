@@ -2,11 +2,14 @@ using Abc.Business.Abstract;
 using Abc.Business.Concrete;
 using Abc.DataAccess.Abstract;
 using Abc.DataAccess.Concrete.EntityFramework;
+using Abc.MvcWebUI.Entities;
 using Abc.MvcWebUI.Middlewares;
 using Abc.MvcWebUI.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -35,6 +38,11 @@ namespace Abc.MvcWebUI
             services.AddSingleton<ICartSessionService, CartSessionService>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
+            services.AddDbContext<CustomIdentityDbContext>(options => options.UseSqlServer("Server=MCELEBIDELL\\SQLEXPRESS;Database=Northwind;Trusted_Connection=true;"));
+
+            services.AddIdentity<CustomIdentityUser, CustomIdentityRole>().AddEntityFrameworkStores<CustomIdentityDbContext>().AddDefaultTokenProviders();
+
+            services.AddMvc();
             services.AddSession();
             services.AddDistributedMemoryCache();
         }
@@ -46,16 +54,16 @@ namespace Abc.MvcWebUI
             {
                 app.UseDeveloperExceptionPage();
             }
-            
+
             app.UseHttpsRedirection();
 
             app.UseStaticFiles();
 
-            //app.UseNodeModules(env.ContentRootPath);
-
             app.UseSession();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
